@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **a real estate data pipeline using python**
 
-- 🌱 I’m currently learning **python, dart, flutter**
+- 🌱 I’m currently learning **dart and flutter**
 
-- 👯 I’m looking to collaborate on **mobile development**
+- 👯 I’m looking to collaborate on **mobile development projects**
 
 - 💬 Ask me about **python**
 
