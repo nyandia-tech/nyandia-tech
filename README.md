@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mary Nyandia</h1>
 <h3 align="center">A passionate mobile developer ,ux/ui designer and python developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyandia-tech" alt="nyandia-tech" /></a> </p>
 <p align="left"> <a href="https://twitter.com/@nyandiamary" target="blank">
   <img src="https://img.shields.io/twitter/follow/@nyandiamary?logo=twitter&style=for-the-badge" alt="@nyandiamary" /></a> </p>
 
